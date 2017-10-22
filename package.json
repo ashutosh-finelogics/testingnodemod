@@ -1,0 +1,19 @@
+{
+  "name": "testinggit",
+  "version": "1.0.0",
+  "description": "test first",
+  "main": "addition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutosh-finelogics/testingnodemod.git"
+  },
+  "author": "finelogics. <finelogics.ashutosh@gmail.com> (http://finelogix.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutosh-finelogics/testingnodemod/issues"
+  },
+  "homepage": "https://github.com/ashutosh-finelogics/testingnodemod#readme"
+}
